@@ -6,6 +6,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "685dbbd86200bcc3",
+        "key": "Arjun908",
+        "expirydate": "18-11-2026",
+        "Allowoffline": false
+    },
+    {
         "device_id": "0ac33927a782e616",
         "key": "key67890",
         "expirydate": "02-11-2026",
