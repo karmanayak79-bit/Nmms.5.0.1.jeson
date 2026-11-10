@@ -282,6 +282,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "1d59c0d6ace1cc96",
+        "key": "bagathram098",
+        "expirydate": "24-11-2026",
+        "Allowoffline": false
+    },
+    {
         "device_id": "device456",
         "key": "key67890",
         "expirydate": "15-06-2025",
